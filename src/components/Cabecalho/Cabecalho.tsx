@@ -1,4 +1,4 @@
-import { CabecalhoContainer, Logo } from "./Cabecalho.style"
+import { CabecalhoContainer, Logo } from "./Cabecalho.style";
 
 const Cabecalho = () => {
     return (
@@ -12,4 +12,4 @@ const Cabecalho = () => {
     )
 }
 
-export default Cabecalho
+export default Cabecalho;
